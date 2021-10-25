@@ -36,6 +36,22 @@ Within a while loop, user is prompted to input() corresponding username and PIN 
 ![step4](https://user-images.githubusercontent.com/48870117/138640772-a1e8ef58-e685-4f64-9c2a-a14e57f2193e.PNG)
 
 * step5: 
+While the last step above is validated, the next step, I printed the application features again and prompted the user to choose the number that corresponds to transaction they want to perform with the input() function.
+If option "1" is selected, I call the deposit function from the account.py module which also prompt the user to enter an amount to deposit if any and assigned the variable "balance" to value returned from this function. The next line also calls the show_balance function from the account.py module and prints the balance to the screen.
+If option "2" is selected, I call the show_balance function from the account.py module to print the previous balance, then call the deposit function to prompt user to enter an amount to deposit if any, this function also return the newly calculated value from adding amount deposited to the previous balance. I assigned the variable "balance" to value returned from this function. The next line also calls the show_balance function from the account.py module and prints the balance to the screen. 
+If option "3" is selected, I call the withdraw function from the account.py module which also prompt the user to enter an amount to withdraw if any, this function also return the newly calculated value from subtracting the withdrawn amount from the previous balance. I assigned the variable "balance" to value returned from this function. The next line also calls the show_balance function from the account.py module and prints the balance to the screen after a withdrawal is made.
+Finally, when the option "4" is selected, the program breaks out of the while loop statement and terminates to log out.
 
-![workshop2atm](https://user-images.githubusercontent.com/48870117/136832493-e192a310-9f80-4e69-8a80-83bc868683eb.PNG)
+![step5](https://user-images.githubusercontent.com/48870117/138710093-237cad5a-c12d-4f9e-9ee0-39fae929aad1.PNG)
 
+![step5print](https://user-images.githubusercontent.com/48870117/138710043-569257ef-71c0-4ed2-a4e1-fe0672281e0a.PNG)
+
+# Conclusion: 
+The application is still in the development process, and working on improving the features, and functionalities.
+P.S: I will gladly welcome any contributions.
+
+# THANK YOU FOR STOPPING BY!!!
+# PLEASE SEE SOME OF MY OTHER PROJECTS.
+
+## AUTHOR:
+ABIODUN M. ABIDEMI
