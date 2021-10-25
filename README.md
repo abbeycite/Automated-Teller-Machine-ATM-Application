@@ -49,7 +49,7 @@ Finally, when the option "4" is selected, the program breaks out of the while lo
 # Conclusion: 
 The application is still in the development process, and working on improving the features, and functionalities.
 
-P.S: I will gladly welcome any contributions.
+P.S: I will gladly welcome any contributions or suggestions.
 
 # THANK YOU FOR STOPPING BY!!!
 # PLEASE SEE SOME OF MY OTHER PROJECTS.
